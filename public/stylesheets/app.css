@@ -1,0 +1,154 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Navigation
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+
+body{
+  background-image: url('/public/images/fabric_plaid_@2X.png');
+  background-attachment: fixed;
+}
+footer{
+  margin:25px 0; 
+}
+ul,li{
+  list-style-type: none;
+}
+.container{
+  background-color: #fff;
+  padding: 25px;
+  /* Rounded Corners*/
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  -khtml-border-radius: 6px;
+  /* Drop Shadows */
+  -moz-box-shadow: 0 0 12px -5px #000;
+  -webkit-box-shadow: 0 0 12px -5px #000;
+  box-shadow: 0 0 12px -5px #000;
+}
+.row{
+  /* Default is 940px */
+  width: 100%;
+}
+.panel{
+  /* Rounded Corners*/
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  -khtml-border-radius: 6px;
+  /* Drop Shadows */
+  -moz-box-shadow: 3px 5px 12px -5px #000;
+  -webkit-box-shadow: 3px 5px 12px -5px #000;
+  box-shadow: 3px 5px 12px -5px #000;
+}
+.thumbnail{
+  /* To have text wrap on blog/news image */
+  float: left;
+  margin-right: 20px;
+}
+.centering{
+  text-align: center;
+}
+/* -----------------------------------------
+   Guide
+----------------------------------------- */
+.guidenav{
+  width: 50%;
+  min-width: 385px;
+  background: none repeat scroll 0 0 rgb(150,150,150);
+  -moz-box-shadow: 3px 5px 12px -5px #000;
+  -webkit-box-shadow: 3px 5px 12px -5px #000;
+  box-shadow: 3px 5px 12px -5px #000;
+  margin-bottom: 20px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  -khtml-border-radius: 6px;
+  padding: 15px 0 15px 20px;
+}
+.guidenav li{
+  line-height: 20px;
+  list-style:none;
+}
+.guidenav a{
+  font-weight: bold;
+  color: black;
+}
+
+/* -----------------------------------------
+   Navigation
+----------------------------------------- */
+.top{
+  height: 46px;
+  background: none repeat scroll 0 0 #393939;
+  margin-bottom: 0;
+  border-bottom: 1px solid #777;
+  -moz-box-shadow: inset 0 -3px 20px rgba(0,0,0,.6);
+  -webkit-box-shadow: inset 0 -3px 20px rgba(0,0,0,.6);
+  box-shadow: inset 0 -3px 20px rgba(0,0,0,.6);
+}
+.nav-bar,.top li{
+  line-height: 30px;
+}
+.bottom{
+  height: 32px;
+  background: none repeat scroll 0 0 #111;
+  margin-top: 0;
+}
+.nav-vertical{
+  background: none repeat scroll 0 0 #111;
+  margin-top: 0;
+}
+.nav-bar,.bottom li{
+  line-height: 30px;
+}
+.nav-bar li:first-child{
+  width: 4.16666%;
+  border-style: hidden;
+  box-shadow: none;
+}
+/* -----------------------------------------
+   Create Guide
+----------------------------------------- */
+/*.text-area{
+  width:100%; 
+  max-height:100%;
+}*/
+.system_select,.game_select{
+  cursor: pointer;
+}
+textarea {
+  min-height: 300px;
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+  box-sizing: border-box;         /* Opera/IE 8+ */
+}
+.success-text{
+  color: green;
+}
+/* -----------------------------------------
+   Site Page
+----------------------------------------- */
+.twtlink {
+  float: right;
+  padding-right: 20px;
+}
+ 
+.twtdate {
+  font-size: 9px;
+}
+ 
+.tweet {
+  /*background: url(../image/twitter_quote1.png) no-repeat left top transparent;*/
+  padding-left: 25px;
+  padding-bottom: 10px;
+}

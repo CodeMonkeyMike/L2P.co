@@ -1,0 +1,120 @@
+a:2:{s:14:"twitter_result";s:6729:"<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com" xmlns:georss="http://www.georss.org/georss" version="2.0">
+  <channel>
+    <title>Twitter / CodeMonkeyMZ</title>
+    <link>http://twitter.com/CodeMonkeyMZ</link>
+    <atom:link type="application/rss+xml" rel="self" href="https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=CodeMonkeyMZ"/>
+    <description>Twitter updates from Michael Zipf / CodeMonkeyMZ.</description>
+    <language>en-us</language>
+    <ttl>40</ttl>
+  <item>
+    <title>CodeMonkeyMZ: Google goes down for a few min -me&quot;Did I do something wrong?&quot;</title>
+    <description>CodeMonkeyMZ: Google goes down for a few min -me&quot;Did I do something wrong?&quot;</description>
+    <pubDate>Tue, 11 Dec 2012 04:26:32 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/278355057907474433</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/278355057907474433</link>
+    <twitter:source>web</twitter:source>
+    <twitter:place/>
+  </item>
+  <item>
+    <title>CodeMonkeyMZ: 7 days without power, storm must have been bad.</title>
+    <description>CodeMonkeyMZ: 7 days without power, storm must have been bad.</description>
+    <pubDate>Mon, 05 Nov 2012 02:34:04 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/265280795529326592</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/265280795529326592</link>
+    <twitter:source>web</twitter:source>
+    <twitter:place/>
+  </item>
+  <item>
+    <title>CodeMonkeyMZ: @TheEconomist We don't have the infrastructure to have a marijuana industry with just a swipe of a pen.</title>
+    <description>CodeMonkeyMZ: @TheEconomist We don't have the infrastructure to have a marijuana industry with just a swipe of a pen.</description>
+    <pubDate>Mon, 05 Nov 2012 02:31:39 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/265280183509086208</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/265280183509086208</link>
+    <twitter:source>web</twitter:source>
+    <twitter:place/>
+  </item>
+  <item>
+    <title>CodeMonkeyMZ: Woh Zurb stepped up its game, new docs and all #foundation</title>
+    <description>CodeMonkeyMZ: Woh Zurb stepped up its game, new docs and all #foundation</description>
+    <pubDate>Mon, 29 Oct 2012 01:07:45 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/262722357188247552</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/262722357188247552</link>
+    <twitter:source>web</twitter:source>
+    <twitter:place/>
+  </item>
+  <item>
+    <title>CodeMonkeyMZ: my life http://t.co/bCukOQyK</title>
+    <description>CodeMonkeyMZ: my life http://t.co/bCukOQyK</description>
+    <pubDate>Mon, 29 Oct 2012 00:49:43 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/262717817755955200</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/262717817755955200</link>
+    <twitter:source>web</twitter:source>
+    <twitter:place/>
+  </item>
+  <item>
+    <title>CodeMonkeyMZ: @dhh Rome: Total War /w mods until Rome: Total War 2 comes out</title>
+    <description>CodeMonkeyMZ: @dhh Rome: Total War /w mods until Rome: Total War 2 comes out</description>
+    <pubDate>Mon, 22 Oct 2012 19:47:45 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/260467500251222016</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/260467500251222016</link>
+    <twitter:source>web</twitter:source>
+    <twitter:place/>
+  </item>
+  <item>
+    <title>CodeMonkeyMZ: Streaming chats from tech entrepreneurs and sponsored by YC, would I ever! #startupschool</title>
+    <description>CodeMonkeyMZ: Streaming chats from tech entrepreneurs and sponsored by YC, would I ever! #startupschool</description>
+    <pubDate>Sun, 21 Oct 2012 00:03:29 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/259807078758109184</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/259807078758109184</link>
+    <twitter:source>web</twitter:source>
+    <twitter:place/>
+  </item>
+  <item>
+    <title>CodeMonkeyMZ: I do because I have something to prove, I continue to do because I have proven myself. #whyiwork</title>
+    <description>CodeMonkeyMZ: I do because I have something to prove, I continue to do because I have proven myself. #whyiwork</description>
+    <pubDate>Sat, 20 Oct 2012 05:58:50 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/259534120114339840</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/259534120114339840</link>
+    <twitter:source>web</twitter:source>
+    <twitter:place/>
+  </item>
+  <item>
+    <title>CodeMonkeyMZ: Just pimped out my IRC chat, well worth the time...</title>
+    <description>CodeMonkeyMZ: Just pimped out my IRC chat, well worth the time...</description>
+    <pubDate>Fri, 19 Oct 2012 20:37:24 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/259392829372121089</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/259392829372121089</link>
+    <twitter:source>web</twitter:source>
+    <twitter:place/>
+  </item>
+  <item>
+    <title>CodeMonkeyMZ: Signed up for Machine Learning #ml - @coursera. https://t.co/wgwd4Tty</title>
+    <description>CodeMonkeyMZ: Signed up for Machine Learning #ml - @coursera. https://t.co/wgwd4Tty</description>
+    <pubDate>Tue, 16 Oct 2012 03:32:50 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/258047826049789952</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/258047826049789952</link>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/tweetbutton&quot; rel=&quot;nofollow&quot;&gt;Tweet Button&lt;/a&gt;</twitter:source>
+    <twitter:place/>
+  </item>
+  <item>
+    <title>CodeMonkeyMZ: I want to move forward on my website but no one answer my question on stackoverflow :,(</title>
+    <description>CodeMonkeyMZ: I want to move forward on my website but no one answer my question on stackoverflow :,(</description>
+    <pubDate>Mon, 08 Oct 2012 03:34:18 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/255149091997237248</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/255149091997237248</link>
+    <twitter:source>web</twitter:source>
+    <twitter:place/>
+  </item>
+  <item>
+    <title>CodeMonkeyMZ: #comedyhackday First tweet is at a hackathon!</title>
+    <description>CodeMonkeyMZ: #comedyhackday First tweet is at a hackathon!</description>
+    <pubDate>Sat, 08 Sep 2012 18:11:21 +0000</pubDate>
+    <guid>http://twitter.com/CodeMonkeyMZ/statuses/244498171156381697</guid>
+    <link>http://twitter.com/CodeMonkeyMZ/statuses/244498171156381697</link>
+    <twitter:source>web</twitter:source>
+    <twitter:place/>
+  </item>
+  </channel>
+</rss>
+";s:9:"timestamp";i:1355450401;}
